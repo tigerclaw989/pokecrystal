@@ -19,7 +19,7 @@ CreditsScript:
 	db CREDITS_SCENE, 0 ; Pichu
 
 	db             DIRECTOR, 1
-	db       SATOSHI_TAJIRI, 2
+	db        TRIPP_SANDERS, 2
 
 	db CREDITS_WAIT, 12
 
