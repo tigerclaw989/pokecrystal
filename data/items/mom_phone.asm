@@ -6,8 +6,8 @@ momitem: MACRO
 ENDM
 
 MomItems_1:
-	momitem      0,   600, MOM_ITEM, SUPER_POTION
-	momitem      0,    90, MOM_ITEM, ANTIDOTE
+	momitem      0,     1, MOM_ITEM, MASTER_BALL
+	momitem      0,    90, MOM_ITEM, DECO_BIG_SNORLAX_DOLL
 	momitem      0,   180, MOM_ITEM, POKE_BALL
 	momitem      0,   450, MOM_ITEM, ESCAPE_ROPE
 	momitem      0,   500, MOM_ITEM, GREAT_BALL
